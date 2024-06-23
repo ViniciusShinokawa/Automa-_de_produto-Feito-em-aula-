@@ -1,4 +1,7 @@
-import openpyxl
+#Site para teste 
+#https://cadastro-produtos-devaprender.netlify.app/etapa2.html
+
+import openpyxl #Abrir a planilha no excel
 import pyperclip #Uma biblioteca para copiar e colar com isso mantendo a escrtia correta 
 import pyautogui
 from time import sleep
